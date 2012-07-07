@@ -1,6 +1,6 @@
 {
   "author": "mizchi",
-  "name": "caat-test",
+  "name": "livescript-assets-test",
   "version": "0.0.0",
   "dependencies": {
     "connect-assets":"*",
