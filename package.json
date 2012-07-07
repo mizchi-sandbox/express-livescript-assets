@@ -1,0 +1,18 @@
+{
+  "author": "mizchi",
+  "name": "caat-test",
+  "version": "0.0.0",
+  "dependencies": {
+    "connect-assets":"*",
+    "express":"*",
+    "coffee-script":"*",
+    "livescript":"*",
+    "prelude-ls":"*",
+    "coffeekup":"*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
