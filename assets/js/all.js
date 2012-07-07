@@ -1,2 +1,3 @@
-//= require ./vendor/jquery-1.8b1.js
+//= require_tree vendor
 //= require main
+prelude.installPrelude(window);
